@@ -16,6 +16,7 @@ module Fastbill
     autoload :Customer,     "fastbill-automatic/customer"
     autoload :Invoice,      "fastbill-automatic/invoice"
     autoload :Item,         "fastbill-automatic/item"
+    autoload :Recurring,    "fastbill-automatic/recurring"
     autoload :Subscription, "fastbill-automatic/subscription"
     autoload :Template,     "fastbill-automatic/template"
     autoload :Article,      "fastbill-automatic/article"
